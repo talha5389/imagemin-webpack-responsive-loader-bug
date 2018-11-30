@@ -1,0 +1,1 @@
+# imagemin-webpack-responsive-loader-bug
