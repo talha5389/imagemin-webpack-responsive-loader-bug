@@ -7,10 +7,3 @@
 /.awcache/
 /.cache-loader/
 /dist/
-/webpack.prod.config.js
-/webpack.env.js
-/webpack.devserver.config.js
-/webpack.watch.config.js
-/webpack.config.js
-/webpack-utils.js
-/webpack-project.js
